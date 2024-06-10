@@ -4,7 +4,7 @@ Tic-Tac-Toe game made with ReactJS only, Vite for developing locally and Prettie
 
 ## Play the game!
 
-[Game Link (Vercel deployment)](https://tic-tac-toe-game-six-rho.vercel.app/)
+<a href="https://tic-tac-toe-game-six-rho.vercel.app/" target="_blank" rel="noopener">Game Link (Vercel deployment)</a>
 
 ### References
 
